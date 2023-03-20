@@ -34,7 +34,33 @@ Em geral, os stakeholders fazem parte da base da gestão de comunicação.
 Ex:Funcionários, gerentes de outras áreas da empresa, organizações internas, clientes, usuários, patrocinadores, financiadores
 ou o próprio governo.
 
+## Gerenciamento de projetos
 
+O gerenciamento de projetos é a aplicação do conhecimento, habilidades, ferramentas e técnicas ás atividade do projeto para atender aos seus  requisitos(PMI)
+
+Conforme a norma ISO 10006:1997. O conceito de gerenciamento de projetos inclui as atividades de planejamento, organização, supervisão e controle de todos os aspectos do projeto, em um processo contínuo, para alcançar seus objetivos.
+
+Como começar um projeto:
+
+1. Identificar as necessidades
+2. Estabelecer objetivos claros e alcançáveis
+3. Balancear demandas conflitantes de escopo, tempo, custo e qualidade;
+4. Balancear objetivos frente as prioridades e expectativas dos stakeholders
+
+
+Gerenciar projetos significa dividir as estratégias previstas em ações e tarefas.
+
+Abordagem Tradicional é orientada á quebra do escopo nas entregas e pacotes e é influenciada pela engenharia de sistemas.
+
+Porém em vários projetos não se tem o escopo claro no início, mas apenas uma perspectiva do que se pretende desenvolver que é o caso da área de produtos digitais.
+
+## Agil
+
+Uma forma de planejar e entregar o projeto em partes , de forma incremental, trabalhando com metas em períodos curtos. [...] No mercado, esse modelo de atuação visa gerar valor para a aorganização e para o cliente(Camargo R)
+
+Embora o movimento ágil tenha surgido na área de desenvolvimento de software, seus valores e princípios se aplicam a vários contextos de projeto.
+
+Inclusão de princípios ágeis nas várias áreas do conhecimento (6ª edição do PMBoK/PMI 2017)
 
 
 
