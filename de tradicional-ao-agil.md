@@ -2,8 +2,9 @@
 (Para o PMI) Esforço temporário empreendido para criar um produto , serviço ou resultado único.
 Temporário-> que tem duração definida, isto é, uma data de início e de fim.
 
-Oura definição de projeto:
+Outra definição de projeto:
 O projeto é um conjunto de ações, realizadas de forma coordenada por uma organização temporária, onde são alocados os insumos necessários para alcançar um objetivo em um determinado prazo.(Valeriano D. L.)
+
 Organização temporária: a equipe formada para resolver o projeto em questão.
 
 Características comuns aos projetos:
