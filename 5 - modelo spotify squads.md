@@ -42,6 +42,30 @@ Pronto. Não há muitas práticas que precisem ser seguidas ou cerimônias que p
 
 Cópia da Atlasian
 
+## Resumão
+
+A o invéns de chamarmos times Scrum : chamaos de equipes multidisciplinares "Squads", funcionam como celulas que resolvem os problemas.
+
+A missão da organização é mais importante que uma squad.
+
+Tribes: conjunto de várias squads. Os squads de uma tribo ficam próximos um do outro. 
+
+![image](https://user-images.githubusercontent.com/52088444/226639836-436a42df-7738-44f3-b490-02dfc72c7bcb.png)
+
+Chapters: grupo de profissionais com skils parecidas, se encontram com frequencia.
+![image](https://user-images.githubusercontent.com/52088444/226640049-fe51b594-f28f-4d53-b6a0-f29362faa1a9.png)
+
+Guilds: equipes que se unem para discutirou trocar experiencias e aprendizado. 
+![image](https://user-images.githubusercontent.com/52088444/226640225-8084bd53-01de-4685-a700-44f4b7ca3d40.png)
+
+![image](https://user-images.githubusercontent.com/52088444/226640708-af637eed-2074-4e1f-ab41-7692788489bc.png)
+
+![image](https://user-images.githubusercontent.com/52088444/226640799-39cc6f1f-6b4e-4e4c-93e2-8834844afd1b.png)
+
+
+
+
+
 Referencias
 
 https://www.atlassian.com/br/agile/agile-at-scale/spotify
