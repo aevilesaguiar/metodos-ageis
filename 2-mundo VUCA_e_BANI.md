@@ -42,4 +42,5 @@ sua empresa e suas equipes.
 
 
 
+![image](https://user-images.githubusercontent.com/52088444/226634635-4cdd75ad-97aa-4e10-aea3-8ed3de3bb17c.png)
 
