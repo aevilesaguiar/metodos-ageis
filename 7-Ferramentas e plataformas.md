@@ -35,8 +35,11 @@ Trello - baseada no método Kanban ajuda equipes a trabalhar em colaboração e 
  Esse briefing nos ajudará na construção do cronograma, atividades e metas do projeto. 
  
  
+ Exemplo:
  
- 
+ ![image](https://user-images.githubusercontent.com/52088444/226689849-52af5dd9-0424-42ce-8402-ccc87b5d8cac.png)
+
+ transformando o assunto de uma sprint usando o Smart
  
  
  
