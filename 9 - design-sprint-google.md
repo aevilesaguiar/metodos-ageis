@@ -205,7 +205,7 @@ Após isso é importante que a equipe trace um plano , o segundo Sprint do proje
 - dia 5 : aprender sobre clientes e ter muitos insights, a falha é válida.
 
 
-
+Após os 5 dias ,a equipe irá saber se uma ideia vale a pena ser desenvolvida.
 
 
 
