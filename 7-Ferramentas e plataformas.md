@@ -41,6 +41,52 @@ Trello - baseada no método Kanban ajuda equipes a trabalhar em colaboração e 
 
  transformando o assunto de uma sprint usando o Smart
  
+ ## Brainstorming
+ 
+ é uma ferramenta famosa. Visa gerar uma grande quantidade de ideias em curtos espaços de tempo.
+ 
+ A palavra Brainstorming significa tempestade de ideias é isto que se tenta fazer no periodo curto.
+ 
+ Qualquer assunto ou tópico e num ambiente livre.
+ 
+ ![image](https://user-images.githubusercontent.com/52088444/226997266-96adb2d0-d12d-4449-9295-8030be7e7fda.png)
+![image](https://user-images.githubusercontent.com/52088444/226997325-8e7ab6a2-f908-4b97-9682-4537f4fdbf0f.png)
+![image](https://user-images.githubusercontent.com/52088444/226997382-2510dc21-a06f-4372-a318-87ba07c1a0ef.png)
+![image](https://user-images.githubusercontent.com/52088444/226997458-368dc21b-e322-4e4a-8f54-30dcda7c81a5.png)
+uma boa ideia e marcar em post-its
+e deve acontecer em:
+![image](https://user-images.githubusercontent.com/52088444/226997555-b6ee5a15-a11d-4e7c-94b7-9b6f5f42aed7.png)
+ou
+![image](https://user-images.githubusercontent.com/52088444/226997590-bf58bafd-c52f-4c1c-ba76-42e14ab7b6d6.png)
+![image](https://user-images.githubusercontent.com/52088444/226997646-c6021eef-cc06-49c3-bf64-78369c85846a.png)
+
+Brainstorminh anônimo.
+
+![image](https://user-images.githubusercontent.com/52088444/226997738-fd4549e0-469d-46ae-b029-4cf0ee3aa8b0.png)
+depois que o coordenador recebe as ideias ele:
+![image](https://user-images.githubusercontent.com/52088444/226997906-cc253b5e-6f98-4721-9a45-c3a6ae8d927f.png)
+ele não indica quem fez as ideias , envolve pessoas timidas não contamina as ideias devido o anonimato
+
+Outro tipo de Brainstorming:
+
+![image](https://user-images.githubusercontent.com/52088444/226998046-e431e69d-5a0c-47f7-b00f-b4c0a283d8dc.png)
+![image](https://user-images.githubusercontent.com/52088444/226998067-212f1aca-8426-44c5-82dc-d70403f9dbe6.png)
+
+Outro tipo de Brainstorming é:
+![image](https://user-images.githubusercontent.com/52088444/226998175-0e61b3a6-b53f-4710-8d1a-4f532b9900d5.png)
+![image](https://user-images.githubusercontent.com/52088444/226998210-15f9a0c1-4a28-4ce8-a88d-fca6ef37adce.png)
+
+![image](https://user-images.githubusercontent.com/52088444/226998259-d26b1d12-214f-4cb5-ba35-7ebcee0d563a.png)
+
+![image](https://user-images.githubusercontent.com/52088444/226998295-7583ed1f-5359-4bdb-813b-31c6f70b466d.png)
+
+![image](https://user-images.githubusercontent.com/52088444/226998343-2e62d09f-00c4-4893-9bc8-790059cecb6f.png)
+
+![image](https://user-images.githubusercontent.com/52088444/226998385-92125ec3-25f4-47d8-bc7b-c12ad65c890a.png)
+
+
+ 
+ 
  
  
  
