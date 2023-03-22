@@ -14,12 +14,18 @@ Ele é feito através de imagensm palavras, texturas ou qualquer coisa que tradu
 
 Por que é importante usar? por que fica mais fácil e rápido de ver um conceito de forma concreta e objetiva.
 
+![image](https://user-images.githubusercontent.com/52088444/227028409-795d8ed4-e683-48e1-8ecf-ca7de1d47095.png)
 
+O moodboard pode ajudar ideias em grupo já que comunica o espírito de algo para o cliente.
  
+Sem ele, as insterpretações do grupo podem ser distintas e causar problemas.
 
 
-
-
+ Conselhos para usar o Monboard:
+ 
+ 1. Para utilizá-lo, basta voc~e definir o objetivo do seu Moodborad e apartir dai buscar todas as imagens ou palavras as texturas que expressem sentidos, texturas, que voc~e queira provocar no seu usuário
+ 2. Depois de coletar suas referencias , escolha um suporte aonde você irá compilá-las.Pode ser um painel físico ou meio digital.Tente não usar um painel com muitas imagens, para não confundir, tente dividir por temáticas, dividi por cores , temática e outros. Busque imagens de qualidade. 
+ 
 
 ## locais para consultar imagens
 
