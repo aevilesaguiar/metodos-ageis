@@ -23,33 +23,32 @@ Sem ele, as insterpretações do grupo podem ser distintas e causar problemas.
 
  Conselhos para usar o Monboard:
  
- 1. Para utilizá-lo, basta voc~e definir o objetivo do seu Moodborad e apartir dai buscar todas as imagens ou palavras as texturas que expressem sentidos, texturas, que voc~e queira provocar no seu usuário
+ 1. Para utilizá-lo, basta você definir o objetivo do seu Moodborad e apartir dai buscar todas as imagens ou palavras as texturas que expressem sentidos, texturas, que voc~e queira provocar no seu usuário
  2. Depois de coletar suas referencias , escolha um suporte aonde você irá compilá-las.Pode ser um painel físico ou meio digital.Tente não usar um painel com muitas imagens, para não confundir, tente dividir por temáticas, dividi por cores , temática e outros. Busque imagens de qualidade. 
  
 
 ## locais para consultar imagens
 
-Creative Commons: https://search.creativecommons.org/
-Every Pixel:
-https://www.everypixel.com/search?q=creativity&stocks_type=&meaning=&media_type=0&page=1
-Flickr: https://www.flickr.com/commons
-From old Books: https://www.fromoldbooks.org/
-GettyImages: https://www.gettyimages.pt/
-GXB Ventures: http://gxbventures.com/
-iStock: https://www.istockphoto.com/
-Libre Stock: https://librestock.com/
-Lycos: http://www.lycos.com/
-PicSearch: http://www.picsearch.com/
-Pinterest: https://br.pinterest.com/
-Pixabay: https://pixabay.com/
-Public Domain Pictures: https://www.publicdomainpictures.net/en/
-Public Domain Archives: http://publicdomainarchive.com/
-Morgue File: https://morguefile.com/
-NASA Images and Videos: https://images.nasa.gov/
-National Geographic: https://www.nationalgeographic.com/search/?q=earth
-New York Public Library: https://digitalcollections.nypl.org/
-Shutter Stock: https://www.shutterstock.com/pt/
-Skweezers: https://skweezer.net/
-TinEye: https://labs.tineye.com/multicolr/
-Unsplash: https://unsplash.com/
-Yelp: https://www.yelp.com/
+- Creative Commons: https://search.creativecommons.org/
+- Every Pixel:https://www.everypixel.com/search?q=creativity&stocks_type=&meaning=&media_type=0&page=1
+- Flickr: https://www.flickr.com/commons
+- From old Books: https://www.fromoldbooks.org/
+- GettyImages: https://www.gettyimages.pt/
+- GXB Ventures: http://gxbventures.com/
+- iStock: https://www.istockphoto.com/
+- Libre Stock: https://librestock.com/
+- Lycos: http://www.lycos.com/
+- PicSearch: http://www.picsearch.com/
+- Pinterest: https://br.pinterest.com/
+- Pixabay: https://pixabay.com/
+- Public Domain Pictures: https://www.publicdomainpictures.net/en/
+- Public Domain Archives: http://publicdomainarchive.com/
+- Morgue File: https://morguefile.com/
+- NASA Images and Videos: https://images.nasa.gov/
+- National Geographic: https://www.nationalgeographic.com/search/?q=earth
+- New York Public Library: https://digitalcollections.nypl.org/
+- Shutter Stock: https://www.shutterstock.com/pt/
+- Skweezers: https://skweezer.net/
+- TinEye: https://labs.tineye.com/multicolr/
+- Unsplash: https://unsplash.com/
+- Yelp: https://www.yelp.com/
