@@ -43,6 +43,141 @@ Já o XP tem sua aplicação mais restrita, focada no mundo, justamente no desen
 
 ## Crystal
 
+Crystal ou cristal é uma família de metodologias de desenvolvimento de software, e como os cristais, possui diferentes cores e rigidez, referindo se ao tamanho e ao nível crítico do projeto.
+
+A Cristall foi criada por Alistair Cockburn e Jim Highsmith, e tais métodos são focados nos talentos e nas habilidades das pessoas, permitindo que o processo de desenvolvimento seja moldado conforme as características específicas da equipe, mesclando a sua cultura de trabalho com a proposta de desenvolvimento ágil.
+
+A metodologia cristal utiliza dois parâmetros para adequar ao projeto de software: 
+- a primeira métrica o número de pessoas envolvidas 
+- segunda o nível crítico.
+
+Cada método Cristal é caracterizado por uma cor de acordo com o número de envolvidos.
+![image](https://user-images.githubusercontent.com/52088444/232252055-0e90ec7c-3ee9-42f4-8582-f21b8622edea.png)
+
+Crystal Clear é uma metodologia leve para equipes:
+- de 1 a 8 pessoas, podendo chegar até 12 em casos especiais e 
+- YELLOW para equipes por volta de 10 a 20 membros.
+- Orange e a variante Orange Web são apropriados para equipes de 20 a 50 participantes 
+- Red para equipes de 50 a 100 membros.
+
+Existem mais cores, mas as mais usuais são essas. 
+
+![image](https://user-images.githubusercontent.com/52088444/232252077-36616bf9-78fa-415c-aabb-23a94320a87c.png)
+
+Como vemos no gráfico, se o seu projeto tiver uma equipe de seis pessoas. O método Crystal que devemos usar é o Crystal Clear.
+![image](https://user-images.githubusercontent.com/52088444/232252101-7ef570f1-95f6-4b7b-a0f2-91f189cd85b7.png)
+
+Além das cores, o cristal utiliza- se de algumas letras para representar a criticidade, ou seja, potenciais perdas causados por uma falha no sistema de desenvolvimento de software C de comfort ou conforto. Casos em que a falha do sistema ocasiona a perda de credibilidade do usuário, devido a ele não atender este conforto ou facilidade.
+
+Como exemplo, temos o serviço de um aparelho celular.
+
+Caso este falhe, o usuário deverá utilizar se de um outro ou até mesmo utilizar se de outros meios
+
+para realizar a comunicação desejada.
+
+Desde descrição, ferry, money ou dinheiro disponível para uso conforme necessário, cujo uso depende
+
+de decisão de alguém com poder para isso.
+
+São os casos em que a falha do sistema ocasiona na perda de dinheiro, mas de valor inexpressivo, tendo
+
+como exemplo o sistema de um caixa de um supermercado.
+
+Tal falha pode impactar em não cobrar determinados produtos ou cobrar produtos com valor superior,
+
+que logo seria descoberto por clientes, gerando a perda de valores, mas que não levará o mercado à
+
+falência e de essencial, nem dinheiro essencial ou dinheiro indispensável, absolutamente necessário.
+
+São os casos em que a falha do sistema ocasiona a perda de uma quantia indispensável em grandes valores.
+
+Como exemplo, temos o sistema de reserva de uma companhia aérea.
+
+Esta não funcionando, ocasionará a perda de valores significativos devido aos gastos que a mesma acarretaria
+
+e assim na qual pode culminar até mesmo na falência da empresa.
+
+L.
+
+De Life ou Vida são os casos em que a falha do sistema ocasiona a perda de vidas, tendo como referência
+
+um software de piloto automático onde a sua falha poderia derrubar um avião e matar os tripulantes e
+
+todos os passageiros.
+
+Assim, de acordo com o tamanho do projeto, tamanho da equipe e a sua criticidade, devemos escolher
+
+o método que melhor se adeque a ele.
+
+Características da Metodologia Crystal Independentemente de qual implementação CRYSTAL você escolhe.
+
+Você encontrará sete princípios chave em cada um.
+
+Entrega frequente Os proprietários de projetos cliente podem esperar resultados da equipe a cada dois
+
+meses, quando são considerados mais projetos.
+
+As entregas podem não entrar em produção diretamente, pois dependem de integrações, mas os interessados
+
+irão ver as versões intermediárias e assim serem capazes de fornecer feedback.
+
+Feedback contínuo Toda equipe de projeto se reúne regularmente para discutir as atividades do projeto.
+
+A equipe também se reúne regularmente com as partes interessadas para garantir que o projeto está caminhando
+
+na direção esperada e comunicar quaisquer novas descobertas que possam afetar o projeto.
+
+Comunicação constante Espera se que para projetos menores, a equipe esteja toda localizada na mesma
+
+sala.
+
+Já para projetos maiores, é esperado que possam estar localizados no mesmo edifício ou andar.
+
+Todos os projetos esperam ter acesso frequente às pessoas que definam os requisitos de segurança.
+
+Cristal é algo único em seu foco no aspecto da segurança de desenvolvimento de software.
+
+Isto vem em dois aspectos, sendo que um deles é a zona segura para que os membros da equipe sejam eficazes
+
+na comunicação da verdade durante o projeto, sem medo de represálias.
+
+O outro aspecto relativo à segurança que só o cristão reconhece, é que a finalidade de cada projeto
+
+de software varia e que alguns projetos afetam a segurança de seus usuários finais, enquanto outros
+
+não.
+
+Por exemplo, um sistema de ônibus espacial é muito mais crítico do que o software de uma batedeira
+
+de bolo foco.
+
+Os membros da equipe devem trabalhar em no máximo dois ou três itens prioritários cada um, e também
+
+devem trabalhar sem interrupções.
+
+Acesso aos usuários finais Como a maioria dos métodos ágeis, Kristol espera que a equipe do projeto
+
+tenha acesso a um ou mais usuários do sistema a ser construído.
+
+Testes automatizados e de integração O Crystal tem várias formas para verificação da funcionalidade
+
+desenvolvida.
+
+Controles devem ser postos em prática para apoiar a versão, tais como testes automatizados e frequente
+
+integração dos componentes desenvolvidos.
+
+
+
+
+
+
+
+
+
+
+
+
 ## MSDM
 ## TDD
 ## FDD
