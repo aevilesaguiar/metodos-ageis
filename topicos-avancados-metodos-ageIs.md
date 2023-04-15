@@ -62,123 +62,115 @@ Crystal Clear é uma metodologia leve para equipes:
 
 Existem mais cores, mas as mais usuais são essas. 
 
-![image](https://user-images.githubusercontent.com/52088444/232252077-36616bf9-78fa-415c-aabb-23a94320a87c.png)
+![image](https://user-images.githubusercontent.com/52088444/232252155-50921ca6-87ad-4063-bfdf-b726c4551fae.png)
 
 Como vemos no gráfico, se o seu projeto tiver uma equipe de seis pessoas. O método Crystal que devemos usar é o Crystal Clear.
-![image](https://user-images.githubusercontent.com/52088444/232252101-7ef570f1-95f6-4b7b-a0f2-91f189cd85b7.png)
 
-Além das cores, o cristal utiliza- se de algumas letras para representar a criticidade, ou seja, potenciais perdas causados por uma falha no sistema de desenvolvimento de software C de comfort ou conforto. Casos em que a falha do sistema ocasiona a perda de credibilidade do usuário, devido a ele não atender este conforto ou facilidade.
+Além das cores, o cristal utiliza- se de algumas letras para representar a criticidade, ou seja, potenciais perdas causados por uma falha no sistema de desenvolvimento de software :
 
-Como exemplo, temos o serviço de um aparelho celular.
+- C de comfort ou conforto. Casos em que a falha do sistema ocasiona a perda de credibilidade do usuário, devido a ele não atender este conforto ou facilidade.
 
-Caso este falhe, o usuário deverá utilizar se de um outro ou até mesmo utilizar se de outros meios
+Como exemplo, temos o serviço de um aparelho celular. Caso este falhe, o usuário deverá utilizar se de um outro ou até mesmo utilizar se de outros meios para realizar a comunicação desejada.
 
-para realizar a comunicação desejada.
+- D de Discretionary money ou dinheiro disponível para uso conforme necessário, cujo uso depende de decisão de alguém com poder para isso.
+São os casos em que a falha do sistema ocasiona na perda de dinheiro, mas de valor inexpressivo, tendo como exemplo o sistema de um caixa de um supermercado.
+Tal falha pode impactar em não cobrar determinados produtos ou cobrar produtos com valor superior, que logo seria descoberto por clientes, gerando a perda de valores, mas que não levará o mercado à falência 
+- E de essencial Money  ou dinheiro indispensável, absolutamente necessário. São os casos em que a falha do sistema ocasiona a perda de uma quantia indispensável em grandes valores. Como exemplo, temos o sistema de reserva de uma companhia aérea. Esta não funcionando, ocasionará a perda de valores significativos devido aos gastos que a mesma acarretaria e assim na qual pode culminar até mesmo na falência da empresa.
+- L de Life ou Vida, são os casos em que a falha do sistema ocasiona a perda de vidas, tendo como referência um software de piloto automático onde a sua falha poderia derrubar um avião e matar os tripulantes e todos os passageiros.
 
-Desde descrição, ferry, money ou dinheiro disponível para uso conforme necessário, cujo uso depende
+Assim, de acordo com o tamanho do projeto, tamanho da equipe e a sua criticidade, devemos escolher o método que melhor se adeque a ele.
 
-de decisão de alguém com poder para isso.
+Características da Metodologia Crystal:
 
-São os casos em que a falha do sistema ocasiona na perda de dinheiro, mas de valor inexpressivo, tendo
+![image](https://user-images.githubusercontent.com/52088444/232252506-d41fcd46-2064-4e40-8abe-98ab7ac84301.png)
 
-como exemplo o sistema de um caixa de um supermercado.
 
-Tal falha pode impactar em não cobrar determinados produtos ou cobrar produtos com valor superior,
+Independentemente de qual implementação CRYSTAL você escolhe.
 
-que logo seria descoberto por clientes, gerando a perda de valores, mas que não levará o mercado à
+Você encontrará sete princípios chave em cada um: 
 
-falência e de essencial, nem dinheiro essencial ou dinheiro indispensável, absolutamente necessário.
-
-São os casos em que a falha do sistema ocasiona a perda de uma quantia indispensável em grandes valores.
-
-Como exemplo, temos o sistema de reserva de uma companhia aérea.
-
-Esta não funcionando, ocasionará a perda de valores significativos devido aos gastos que a mesma acarretaria
-
-e assim na qual pode culminar até mesmo na falência da empresa.
-
-L.
-
-De Life ou Vida são os casos em que a falha do sistema ocasiona a perda de vidas, tendo como referência
-
-um software de piloto automático onde a sua falha poderia derrubar um avião e matar os tripulantes e
-
-todos os passageiros.
-
-Assim, de acordo com o tamanho do projeto, tamanho da equipe e a sua criticidade, devemos escolher
-
-o método que melhor se adeque a ele.
-
-Características da Metodologia Crystal Independentemente de qual implementação CRYSTAL você escolhe.
-
-Você encontrará sete princípios chave em cada um.
-
-Entrega frequente Os proprietários de projetos cliente podem esperar resultados da equipe a cada dois
-
-meses, quando são considerados mais projetos.
-
-As entregas podem não entrar em produção diretamente, pois dependem de integrações, mas os interessados
-
-irão ver as versões intermediárias e assim serem capazes de fornecer feedback.
-
-Feedback contínuo Toda equipe de projeto se reúne regularmente para discutir as atividades do projeto.
-
-A equipe também se reúne regularmente com as partes interessadas para garantir que o projeto está caminhando
-
-na direção esperada e comunicar quaisquer novas descobertas que possam afetar o projeto.
-
-Comunicação constante Espera se que para projetos menores, a equipe esteja toda localizada na mesma
-
-sala.
-
-Já para projetos maiores, é esperado que possam estar localizados no mesmo edifício ou andar.
-
-Todos os projetos esperam ter acesso frequente às pessoas que definam os requisitos de segurança.
-
-Cristal é algo único em seu foco no aspecto da segurança de desenvolvimento de software.
-
-Isto vem em dois aspectos, sendo que um deles é a zona segura para que os membros da equipe sejam eficazes
-
-na comunicação da verdade durante o projeto, sem medo de represálias.
-
-O outro aspecto relativo à segurança que só o cristão reconhece, é que a finalidade de cada projeto
-
-de software varia e que alguns projetos afetam a segurança de seus usuários finais, enquanto outros
-
-não.
-
-Por exemplo, um sistema de ônibus espacial é muito mais crítico do que o software de uma batedeira
-
-de bolo foco.
-
-Os membros da equipe devem trabalhar em no máximo dois ou três itens prioritários cada um, e também
-
-devem trabalhar sem interrupções.
-
-Acesso aos usuários finais Como a maioria dos métodos ágeis, Kristol espera que a equipe do projeto
-
-tenha acesso a um ou mais usuários do sistema a ser construído.
-
-Testes automatizados e de integração O Crystal tem várias formas para verificação da funcionalidade
-
-desenvolvida.
-
-Controles devem ser postos em prática para apoiar a versão, tais como testes automatizados e frequente
-
-integração dos componentes desenvolvidos.
+- Entrega frequente: Os proprietários de projetos cliente podem esperar resultados da equipe a cada dois meses, quando são considerados mais projetos. As entregas podem não entrar em produção diretamente, pois dependem de integrações, mas os interessados irão ver as versões intermediárias e assim serem capazes de fornecer feedback.
+- Feedback contínuo: Toda equipe de projeto se reúne regularmente para discutir as atividades do projeto. A equipe também se reúne regularmente com as partes interessadas para garantir que o projeto está caminhando na direção esperada e comunicar quaisquer novas descobertas que possam afetar o projeto.
+- Comunicação constante Espera se que para projetos menores, a equipe esteja toda localizada na mesma sala. Já para projetos maiores, é esperado que possam estar localizados no mesmo edifício ou andar. Todos os projetos esperam ter acesso frequente às pessoas que definam os requisitos.
+- Segurança: Cristal é algo único em seu foco no aspecto da segurança de desenvolvimento de software. Isto vem em dois aspectos, sendo que um deles é a zona segura para que os membros da equipe sejam eficazes na comunicação da verdade durante o projeto, sem medo de represálias. O outro aspecto relativo à segurança que só o cristall reconhece, é que a finalidade de cada projeto de software varia e que alguns projetos afetam a segurança de seus usuários finais, enquanto outros não.
+Por exemplo, um sistema de ônibus espacial é muito mais crítico do que o software de uma batedeira de bolo.
+- foco:  Os membros da equipe devem trabalhar em no máximo dois ou três itens prioritários cada um, e também devem trabalhar sem interrupções.
+- Acesso aos usuários finais Como a maioria dos métodos ágeis, Cristal espera que a equipe do projeto tenha acesso a um ou mais usuários do sistema a ser construído.
+- Testes automatizados e de integração O Crystal tem várias formas para verificação da funcionalidade desenvolvida. Controles devem ser postos em prática para apoiar a versão, tais como testes automatizados e frequente integração dos componentes desenvolvidos.
 
 
 
+## MSDM (Método de Desenvolvimento de Sistemas Dinâmicos)
+
+A Dynamic Sistemas Development Method de MSDM em inglês foca na criação de protótipos que evoluem para o sistema, utilizando para isso a colaboração muito próxima do cliente.
+
+As ideias principais desse framework podem ser observadas no conjunto dos seguintes princípios norteadores:
+
+- O envolvimento ativo do usuário é imperativo.
+- O time deve ter o poder para tomar decisões.
+- O foco é a entrega frequente de produtos.
+- O encaixe ao propósito do negócio é o critério essencial para aceitação das entregas.
+- O desenvolvimento iterativo e incremental é necessário para convergir com precisão as soluções do negócio.
+- Todas as mudanças durante o desenvolvimento são reversíveis.
+- Requisitos são alinhados em um alto nível.
+- O teste é integrado por todo o ciclo de vida.
+- Uma abordagem colaborativa e cooperativa entre as partes envolvidas é essencial.
+
+É possível notar com esses princípios, que o cliente e o negócio são os pontos essenciais do método, enquanto que os aspectos técnicos, como a programação, são pouco abordados, o que fica ainda mais evidente na descrição do processo.
+![image](https://user-images.githubusercontent.com/52088444/232252632-7fef957d-7ec3-4076-92c8-becab3a39746.png)
+
+Além disso, é possível combinar o MSDM a outros métodos, tal como e XP, e mesmo assim ainda manter os seus princípios. Além desses princípios, existem algumas técnicas que são usadas durante a execução de um projeto:
+
+- Time boxes, definição de um período fixo para execução do projeto, colocando até datas de entrega.
+- Moscow técnica para priorização de requisitos durante o período de desenvolvimento. A ideia fundamental é priorizar e implementar os requisitos que sejam considerados principais, deixando os menos importantes para depois.
+- Modelagem não deve ser uma atividade burocrática, sendo usada para prover um melhor entendimento do problema e da solução.
+- Prototipação forma de verificar a adequação dos requisitos e facilitar as discussões com o cliente.O protótipo criado deve evoluir juntamente com o projeto
+- Teste essa atividade deve ser executada sistematicamente e de forma contínua durante o projeto 
+- Gerência de Configuração Essencial, visto que os produtos são entregues com uma grande frequência.
+
+## TDD(Test Driven Development)
+
+Test Drive and Development ou, em português, desenvolvimento guiado por testes é definido como umatécnica de desenvolvimento de software ligado ao conceito de verificação e validação em curtos períodos de tempo.
 
 
+No TDD você desenvolve os testes do software antes mesmo de desenvolver o software para cada peça da aplicação que deverá ser construída.
+Os testes são escritos antes com base nas entradas e saídas dos métodos ou funcionalidades do sistema. A prática é simples escreva um teste que falha, faça o passar da maneira mais simples possível e, por fim, refatore código.
+
+Esse ciclo é conhecido como ciclo vermelho verde Refatore.
+![image](https://user-images.githubusercontent.com/52088444/232252769-4739896e-0359-4957-b2ad-dcfdecafc301.png)
+
+**Pricncipios
+
+Os princípios fundamentais que devemos levar em conta ao adotar o TDD são:
+- escrever o teste da implementação antes de escrever o código a ser implementado inteiro; 
+- escrever apenas o código suficiente para o teste e se contentar com isso. 
+- Escrever testes pequenos, testando a menor quantidade possível de código de cada vez. 
+- Escrever testes rápidos não é programar rápido, e sim testes que executem rápido.
+
+O ciclo de vida do TDD.
+
+![image](https://user-images.githubusercontent.com/52088444/232252861-3db5fb7b-473a-48d7-8d26-7f45a1c37251.png)
 
 
+- Crie o teste
+- execute todos os possíveis testes 
+- verifique se ocorre alguma falha na aplicação.
+- Escreva a aplicação a ser testada 
+- execute os testes para ver se todos passarão relatórios
+- execute os testes novamente e garanta que eles continuem passando.
+- Refatore 
+- teste-os novamente e garanta que eles continuem passando
 
+Vantagens do uso do TDD.
 
+- Feedback rápido sobre a nova funcionalidade e sobre as outras funcionalidades existentes no sistema.
+- Código mais limpo já que escrevemos códigos simples para o teste passar.
+- Segurança na refatoração, pois podemos ver o que estamos ou não afetando no sistema.
+- Segurança na correção de bugs.
+- Maior produtividade, já que o desenvolvedor encontra menos bugs e não desperdiça tempo em depuração.
+- Código da aplicação mais flexível, já que para escrever testes temos que separar em pequenos pedaços do nosso código para que sejam testáveis, ou seja, nosso código estará menos acoplado.
 
+![image](https://user-images.githubusercontent.com/52088444/232252853-2fd6e9dc-67de-45db-8339-72526f4cfd3c.png)
 
-
-## MSDM
-## TDD
 ## FDD
 ##  KanBan
