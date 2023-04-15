@@ -90,6 +90,44 @@ Monitore constantemente o humor da equipe.
 
 A identificação dos padrões de comportamento podem, com o tempo, tornar se claras, como, por exemplo, dias da semana em que a equipe encontra se mais ou menos disposta, ou que um determinado membro está passando por alguma dificuldade. A possibilidade de obter e analisar os sentimentos de sua equipe é uma oportunidade única, não apenas para reflexão, mas entendimento geral do comportamento de cada membro de nossa equipe. E lembre se que esta ferramenta deve ser usada para ajudar a melhorar o desempenho da equipe e não como uma forma de constranger funcionários.
 
+## Tipos de Contrato no Scrum
+
+Como o cliente será cobrado?
+![image](https://user-images.githubusercontent.com/52088444/232249530-b0a9d492-9d84-41ce-8046-743f01f72f77.png)
+
+![image](https://user-images.githubusercontent.com/52088444/232249563-2a44813d-614a-49e7-9b00-50ab8b192f3b.png)
+
+##  Bus Factor
+
+O fator onibus do inglês bus factor se refere ao número de membros de uma equipe que poderia ser atropelado por um ônibus sem que o projeto seja encerrado por falta de pessoal competente.
+
+É um tanto tenebroso pensar que seu time será atropelado por um ônibus. Mas, no fundo, o Bus Factor trata da questão de que o conhecimento do projeto não deve ficar concentrado em apenas algumas pessoas, pois se uma delas tiver que se ausentar, mudar de emprego, tirar férias, se aposentar, ganhar na loteria ou até mesmo se por infelicidade, seja realmente atropelada. Será que seu projeto conseguirá prosseguir sem ela?
+
+Então, ao perdermos um dos membros da equipe do projeto, independentemente do motivo, será que seremos capazes de continuar com esse projeto, já que ninguém mais tem a informação ou conhecimento chave desse membro?
+
+Se a resposta for não temos o bus factor com índice 1, ou seja, ou uma pessoa se ausentou e o projeto parou.
+![image](https://user-images.githubusercontent.com/52088444/232249732-ce220f38-c6da-461e-8fc6-b5c7452646ef.png)
+
+
+Péssimo, isso não é mesmo?
+Quanto maior o índice, melhor para o projeto, pois isso indica que, para o projeto parar, mais pessoas precisariam desaparecer.
+
+Os métodos ágeis são ótimos para manter o buzz factor em níveis elevados, já que esses métodos incentivam o conhecimento compartilhado e times multifuncionais.
+
+Dicas para aumentar o Bus Factor do seu time 
+Reflita isso em seu time: a perda de 1 pessoa apenas já impactaria as entregas? Se sim, então o time precisa compartilhar mais e, principalmente, seguir as dicas abaixo: 
+Avalie o CFD e Cycle Time  
+Uma pessoa ou mais saíram? Espere ao menos duas semanas e avalie o CFD (Cumulative Flow Diagram) do time. Esse é um gráfico para análise de acúmulo de atividades e aponta gargalos nas fases, ou fases estagnadas sem movimentação para a conclusão.   
+Olhe também o Cycle Time (Tempo de Ciclo), que é o tempo em que uma demanda ficou “em progresso” até sua finalização. Analise se esse tempo aumentou comparado a outros ciclos. 
+Faça uma matriz de conhecimentos 
+Para avaliar o quanto cada um do time entende de cada item, faça uma matriz de conhecimentos específicos inerente aos serviços/produtos, tecnologias e afins. Com o resultado, você consegue avaliar quem concentra maiores conhecimentos sobre um determinado assunto. 
+Realize uma pesquisa interna 
+Faça uma pesquisa anônima com o time para avaliar o quanto consideram que seriam impactados pela ausência da pessoa que mais se destaca em temas como suporte, novos projetos, reuniões com outros times. Aqui você consegue identificar os super-heróis! 
+Após análise, seu BF (Bus Factor) está baixo? Tem Super-Heróis em sua equipe? Caso a resposta às duas perguntas seja sim, então trace um planejamento para solucionar esse caso. 
+Registre os conhecimentos e treine a equipe 
+Defina as principais pautas que podem ser um problema para a maioria das pessoas do time, promovam trocas de conhecimento e documente os assuntos abordados. Treine pessoas ao seu redor, principalmente seu backup (pessoa que deverá te substituir em ausências)- aliás, certifique-se de ter um. 
+Amplie os pontos de contato e empodere pessoas 
+Traga outras pessoas do seu time para reunião em que só você foi convidado, não seja o único ponto de contato. Além disso, empodere pessoas, incentive-as a tomar suas próprias decisões, orientando-as para que suas escolhas sejam assertivas. 
 
 
 
