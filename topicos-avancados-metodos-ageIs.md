@@ -161,7 +161,9 @@ O ciclo de vida do TDD.
 - Refatore 
 - teste-os novamente e garanta que eles continuem passando
 
-Vantagens do uso do TDD.
+Vantagens do uso do TDD:
+![image](https://user-images.githubusercontent.com/52088444/232252943-4fbecb74-daf4-41ef-bc76-e79983eab2b9.png)
+
 
 - Feedback rápido sobre a nova funcionalidade e sobre as outras funcionalidades existentes no sistema.
 - Código mais limpo já que escrevemos códigos simples para o teste passar.
@@ -170,7 +172,105 @@ Vantagens do uso do TDD.
 - Maior produtividade, já que o desenvolvedor encontra menos bugs e não desperdiça tempo em depuração.
 - Código da aplicação mais flexível, já que para escrever testes temos que separar em pequenos pedaços do nosso código para que sejam testáveis, ou seja, nosso código estará menos acoplado.
 
-![image](https://user-images.githubusercontent.com/52088444/232252853-2fd6e9dc-67de-45db-8339-72526f4cfd3c.png)
 
-## FDD
-##  KanBan
+## FDD (Feature Driven Development)
+
+O Featured Driven Development é um processo de software centrado no cliente, centrado na arquitetura e pragmático.
+Para o FDD, os recursos são um aspecto muito importante.Um recurso é uma pequena função de valor para o cliente e é expressa na forma, ação, resultado e objeto.
+![image](https://user-images.githubusercontent.com/52088444/232253029-b3a29260-7474-4e83-9a54-c39181ddd90c.png)
+
+Por exemplo, calcular o total de uma venda, validar a senha de um usuário e autorizar a transação de venda de um cliente.
+
+Os recursos são para o FDD. O que as histórias de usuários são para o Scrum. Eles são a principal fonte de requisitos e a principal entrada em seus esforços de planejamento.
+
+Há seis funções principais em um projeto de FDD :
+![image](https://user-images.githubusercontent.com/52088444/232253056-023e351a-e0a5-4590-ba50-df9732da83f9.png)
+
+
+- o gerente do projeto;
+- o arquiteto chefe;
+- o gerente de desenvolvimento;
+- o programador chefe
+- o proprietário de classe 
+o especialista em Dominion.
+
+O indivíduo assumirá uma ou mais funções em um projeto como você esperaria. O conceito de proprietário de uma classe é onde o FDD difere do XP. No XP, por exemplo, possui uma prática chamada propriedade coletiva, cuja ideia é que qualquer desenvolvedor possa atualizar qualquer artefato, incluindo o código fonte, conforme necessário. Já o FDD adota uma abordagem diferente ao designar classes a desenvolvedores individuais. Portanto, se o recurso exigir alterações em várias classes, os proprietários dessas classes deverão trabalhar juntos como uma equipe de recursos para implementá lo.
+
+O FDD também define uma coleção de funções de suporte incluindo:
+- o gerente de domínio
+- o gerente de releases
+- o guru da linguagem
+- engenheiro de builds
+- especialista em ferramentas
+- administrador do sistema
+- testador de player 
+- escritor técnico.
+
+Em relação às práticas definidas no FDD, elas não são extremamente rígidas, pregando adaptação ao ambiente de desenvolvimento. No entanto, existe um conjunto de práticas que são fundamentais e que são:
+
+- modelagem em objetos de domínio.Construir um diagrama de classes básico com os objetos de domínio e suas relações, definindo assim uma arquitetura básica para o modelo do sistema.
+- Desenvolvimento por características, a implementação deve ser orientada pelas características.
+- Autoria individual. O código é de autoria de um dono da classe, o que permite uma maior rapidez na implementação das tarefas associadas.
+- Times da característica. Para a implementação de uma determinada característica, o chefe programador recruta os donos das classes que serão usadas. Esse grupo de pessoas é o time da característica.
+- Inspeções. A forma de verificação de qualidade do código e do projeto 
+- integração ou build regular em um determinado período de tempo fixo devem ser integradas às características já terminadas, permitindo a verificação de erros e também criando uma versão atual que pode ser demonstrada ao cliente.
+- Gerência de configuração. Manter versões de todos os artefatos criados.
+- Reportar visibilidade dos resultados permite que se conheça o progresso do projeto 
+
+**Processo
+
+![image](https://user-images.githubusercontent.com/52088444/232253273-f6953863-98e1-4e7a-aae4-364957df7416.png)
+
+
+o FDD é classicamente descrita por cinco processos:
+
+- Desenvolver um modelo abrangente pode envolver o desenvolvimento de requisitos, análise orientada por objetos, modelagem, lógica de dados e outras técnicas para entendimento do domínio de negócio em questão. O resultado é um modelo de objetos e ou de dados de alto nível que guiará a equipe durante os ciclos de construção.
+
+- Construir uma lista de funcionalidades e a decomposição funcional do modelo do domínio em três camadas típicas:
+    - área de negócio, 
+    - atividades de negócio 
+    - e passos automatizados das atividades ou funcionalidades.
+
+O resultado é uma hierarquia de funcionalidades que representa o produto a ser construído. Também chamado de backlog do produto. Planejar por funcionalidade abrange a estimativa de complexidade e dependência das funcionalidades, também levando em consideração a prioridade de valor para o negócio ou cliente.
+
+O resultado é um plano de desenvolvimento com os pacotes de trabalho na sequência apropriada para sua construção.
+
+Detalhar por funcionalidade, Já dentro de uma iteração de construção, a equipe detalha os requisitos e outros artefatos para codificação de cada funcionalidade, incluindo os testes.
+
+O projeto para as funcionalidades é inspecionado. O resultado é o modelo de domínio mais detalhado e os esqueletos de código prontos para serem preenchidos.
+
+Construir por funcionalidade. Cada esqueleto de código é preenchido, testado e inspecionado. O resultado é um incremento do produto integrado ao repositório principal de código, com qualidade e potencial para ser usado pelo cliente ou usuário.
+
+##  Kanban
+
+Kanban é um método baseado no Pensamento Lean e no Pensamento Ágil, voltado a melhorar a execução dos serviços, entregar valor de maneira contínua e evoluir continuamente o sistema de produção, através da resolução sistemática de problemas.
+
+Kanban procura identificar oportunidades de melhoria, criando uma cultura de melhoria contínua na equipe.Kanban é uma ferramenta criada inicialmente para ser utilizada no controle de produção da Toyota e que hoje pode ser utilizada em diversas áreas, como por exemplo: desenvolvimento de software, gestão de TI, novos negócios, design, finanças, marketing, operações, entre outras.
+
+O uso adequado dessa ferramenta pode trazer agilidade e organização. Agilidade em responder às mudanças que surgem ao longo da execução de tarefas e projetos e organização, formando um time que trabalha de forma mais eficiente, sem gerar muito ruído nas comunicações.
+
+O Kanban organiza um determinado processo com base em um quadro visual. Esse quadro é dividido entre os estágios do processo e cada estágio possuirá cartões afixados com tarefas a serem realizadas nesse passo do processo. Esses cartões passam de um estágio do processo para outro, à medida que as tarefas indicadas nesses cartões vão sendo finalizadas. Dessa forma, um sistema Kanban é composto por um fluxo de valor onde unidades de trabalho trafegam da esquerda para a direita. Cada etapa do processo adiciona mais valor ao item que está sendo trabalhado, sendo que quando ele chega ao final do processo, ele está concluído ou Done. Esse fluxo de valor pode ser o desenvolvimento de um software, a prestação de um serviço como atendimento ao cliente ou até mesmo a criação de um produto físico.
+
+Vamos supor que fazemos parte de um time de desenvolvimento de um aplicativo. O nosso processo atual tem algumas etapas que vamos mapear na forma de colunas e que são backlog, design e desenvolvimento, testes deploy e pronto.
+![image](https://user-images.githubusercontent.com/52088444/232253578-dd21ff60-d832-4cff-8054-4eae6233a6c7.png)
+
+Neste quadro, as unidades de trabalho representam itens que geram algum benefício ao cliente ou usuário final. São novas funcionalidades, correção de defeitos ou melhorias na interface do produto. O valor é gerado somente quando um item alcança a última etapa. Apesar de conter etapas sequenciais e cartões, isso é quase, mas ainda não é um sistema Kanban. Vamos fazer mais duas mudanças para tornar o fluxo puxado. Dividir as colunas intermediárias em dois estágios "fazendo e pronto" e adicionar limite de trabalho em progresso(WIP), Ou seja, cada coluna vai ter um limite de tarefas a serem trabalhadas ao mesmo tempo.
+
+Feitas essas mudanças, o nosso quadro ficaria assim:
+
+![image](https://user-images.githubusercontent.com/52088444/232253641-e57fdd60-4822-495c-acfa-2cc237d57083.png)
+
+
+Vamos analisar como isso funciona na prática. Vamos supor que você é o especialista em design e que você está trabalhando em uma funcionalidade. Após concluir a sua atividade, você movimenta o cartão para a etapa pronto da coluna Design. Se um desenvolvedor que atua na etapa de desenvolvimento está livre, ele pode perceber que você sinalizou a conclusão da sua parte e então puxar o cartão para etapa, fazendo da coluna Desenvolvimento. Repare que o Limite um da coluna Design é válido tanto para fazendo quanto pronto. No caso, temos um item que foi concluído pelo designer, mas ainda não foi puxado. O que o designer faz nesse caso? Nada.
+Ele apenas aguarda alguém puxar o item para o desenvolvimento. Nesse caso, o slot seria então liberado e ele poderia trabalhar em outro item. 
+Claro que, se na prática não houver um slot disponível, o membro do time não vai ficar simplesmente parado em um sistema Kanban estimulamos as pessoas a olharem para o fluxo como um todo e buscarem formas de aumentar a vazão. Pode ser que o designer possa ajudar alguém no desenvolvimento. Pode ser que ele usa esse tempo para pensar em melhorias e etc. 
+Veja que a divisão de fazendo e pronto em cada um dos passos é importante quando várias funções que não são compartilhadas atuam no mesmo fluxo. 
+
+Por exemplo, a pessoa responsável pelo design não será a mesma que irá efetuar o desenvolvimento. Se não tivéssemos essas colunas, como é que o desenvolvedor saberia que o designer encerrou sua tarefa? Assim como os itens são puxados apenas quando a capacidade disponível, raramente existe sobrecarga. Isso é o que chamamos de sistema puxado. Esse é um contraste, a forma tradicional de trabalhar, que chamamos de sistema empurrado. Vamos entender a diferença entre os dois para compreender melhor um sistema Kanban.
+
+Sistema empurrado, um sistema empurrado e aquele em que a produção é baseada na demanda sem respeito à capacidade do sistema. Em geral, no paradigma empurrado, tenta se produzir o máximo possível e em grandes lotes, sem considerar a real necessidade dos clientes. Neste tipo de abordagem, a estratégia de marketing e vendas também é focada em vender e empurrar os produtos para o cliente. No nosso exemplo, não teríamos as colunas Fazenda e Pronto e tampouco o limite de tarefas. E assim que o designer terminasse sua tarefa, ele mesmo moveria o seu cartão para a coluna Desenvolvimento. E qual é o mal disso? É que, em um determinado momento, a coluna Desenvolvimento vai ficar tão cheia de coisas para fazer que o fluxo vai travar. Aí é o que o designer vai fazer, vai continuar fazendo seu trabalho e gerando mais trabalho para o desenvolvedor.É como se empurrasse a batata quente para o próximo e ele que se vire com ela. Os principais efeitos colaterais de um sistema empurrado são a sobrecarga, demora nas entregas em grandes lotes e burnout das pessoas.
+
+Sistema puxado por um sistema puxado e aquele em que os participantes puxam o trabalho quando a capacidade disponível para executá lo. Isso é possível quando atribuímos limites para as unidades de trabalho em progresso.  Um sistema puxado nunca irá sofrer com sobrecarga se os limites forem estabelecidos corretamente.
+Nesse paradigma, busca se atingir um passo sustentável, ou seja, um equilíbrio entre a capacidade do time e o que é demandado dele.
+
+
